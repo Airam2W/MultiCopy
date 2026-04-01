@@ -1,9 +1,13 @@
+from doctest import master
+from logging import root
+import os
 import tkinter as tk
 from tkinter import ttk, filedialog
 from core.clipboardManager import ClipboardManager
 from core.state import state
 from utils.config import config
 from utils.configManager import load_config, save_config
+from PIL import Image, ImageTk
 
 KEY_MAP = {
     "control_l": "<ctrl>",
@@ -16,6 +20,10 @@ KEY_MAP = {
     "super_r": "<cmd>",
 }
 
+# Icon of the settings window
+ICON_RUTE = os.path.join(os.path.dirname(__file__), "../utils/settings.ico")
+
+
 
 class SettingsWindow:
     def __init__(self, on_start_callback):
@@ -24,12 +32,17 @@ class SettingsWindow:
         self.is_recording_hotkey = False
         self.root = tk.Tk()
         self.root.title("MultiCopy Settings")
+        
+        self.root.iconbitmap(ICON_RUTE)
+
         self.root.geometry("420x750")
         self.center_window(420,750)
         self.root.resizable(False, False)
         self.root.protocol("WM_DELETE_WINDOW", self.force_exit)
         
         self.hotkey_captured = config.show_overlay_hotkey
+        
+        
         
         
 

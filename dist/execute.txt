@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=utils/logo.ico main.py --add-data "utils/logo.ico;utils" --add-data "utils/config.json;utils" --add-data "utils/settings.ico;utils"

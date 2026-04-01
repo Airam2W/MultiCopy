@@ -1,4 +1,4 @@
-# core/hotkeys.py
+# Listens for global hotkeys to trigger actions like showing the overlay or copying text to the clipboard.
 
 from pynput import keyboard
 from core.clipboardManager import ClipboardManager

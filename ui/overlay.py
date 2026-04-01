@@ -1,5 +1,7 @@
 # Overlay UI for clipboard management using Tkinter.
 
+import os
+
 from utils.configManager import save_config
 from utils.config import config
 import tkinter as tk
@@ -15,6 +17,9 @@ TOP_BAR_HEIGHT = 43
 savedX = 0
 savedY = 0
 
+# Icon of the application
+ICON_RUTE = os.path.join(os.path.dirname(__file__), "../utils/logo.ico")
+
 class ClipboardOverlay:
     def __init__(self, on_open_settings=None, on_stop_listener=None):
         self.on_open_settings = on_open_settings
@@ -27,6 +32,7 @@ class ClipboardOverlay:
         self.root.withdraw()
         self.root.overrideredirect(True)
         self.root.attributes("-topmost", True)
+        self.root.iconbitmap(ICON_RUTE)
 
         # Keyboard
         self.root.bind("<Up>", self.move_up)
