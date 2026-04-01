@@ -38,8 +38,8 @@ While I was copying large texts from some websites, images, titles, subtitles, a
 <img width="425" height="805" alt="image" src="https://github.com/user-attachments/assets/081d7ff1-fe58-43ff-b6f2-96ace2e05cbf" />
 <img width="429" height="801" alt="image" src="https://github.com/user-attachments/assets/fbcbd791-f67e-46a2-b0f4-4170150bd838" />
 <p align="center"><img src="https://github.com/user-attachments/assets/e90f3537-a2af-4300-bc2b-03eac9c4f4c8" alt="MultiCopy Demo 1" width="1919"/></p>
-<p align="center"><img src="https://github.com/user-attachments/assets/24e69d8b-4179-4fa2-8f50-6d73dac79835" alt="MultiCopy Demo 2" width="1919"/></p>
-<p align="center"><img src="https://github.com/user-attachments/assets/31eea61e-f822-4781-948f-02c0078e7749" alt="MultiCopy Demo Aespa" width="1919"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/24e69d8b-4179-4fa2-8f50-6d73dac79835" alt="MultiCopy Demo 2" width="714"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/31eea61e-f822-4781-948f-02c0078e7749" alt="MultiCopy Demo Aespa" width="768"/></p>
 
 ---
 
