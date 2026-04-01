@@ -7,7 +7,9 @@ You can to configurete your favorite shortcut for MultiCopy, limited max of itea
 
 ## Why this project (MultiCopy) was created?
 
-While I was copying large texts from some websites, images, titles, subtitles, a lot of thins interference me to copy everythins at once, I think "I want two Ctrl + V..." because is so tedious copy one for one. And obviously, in the web exists a lot of professional clipboards, but I wanted to create a simple, easy to use and with characteristics that I consider useful for a clipboard.
+While I was copying large texts from some websites, images, titles, subtitles, a lot of thins interference me to copy everythins at once, I think "I want two Ctrl + V..." because is so tedious copy one for one.
+
+And obviously, in the web exists a lot of professional clipboards, but I wanted to create a simple, easy to use and with characteristics that I consider useful for a clipboard.
 
 ---
 
@@ -38,15 +40,15 @@ While I was copying large texts from some websites, images, titles, subtitles, a
 <img width="425" height="805" alt="image" src="https://github.com/user-attachments/assets/081d7ff1-fe58-43ff-b6f2-96ace2e05cbf" />
 <img width="429" height="801" alt="image" src="https://github.com/user-attachments/assets/fbcbd791-f67e-46a2-b0f4-4170150bd838" />
 <p align="center"><img src="https://github.com/user-attachments/assets/e90f3537-a2af-4300-bc2b-03eac9c4f4c8" alt="MultiCopy Demo 1" width="1919"/></p>
-<p align="center"><img src="https://github.com/user-attachments/assets/24e69d8b-4179-4fa2-8f50-6d73dac79835" alt="MultiCopy Demo 2" width="1919"/></p>
-<p align="center"><img src="https://github.com/user-attachments/assets/31eea61e-f822-4781-948f-02c0078e7749" alt="MultiCopy Demo Aespa" width="1919"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/5ee7cee9-7ca8-42d1-9887-b7a4453aa16e" alt="MultiCopy Demo - Copy text" width="1919"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/d6027792-1e9b-47b6-98e7-0c1d5aa56fd2" alt="MultiCopy Demo - Copy texts" width="1919"/></p>
 
 ---
 
 ## Installation
 
-Step 1. Download *MultiCopy.exe* located in the folder "dist"
-Step 2. Run *MultiCopy.exe* and Work with it!
+- Step 1. Download *MultiCopy.exe* located in the folder "dist"
+- Step 2. Run *MultiCopy.exe* and Work with it!
 
 > **If you want to package a python program (MultiCopy) into .exe:**  
 > I recommend use this command for it:
