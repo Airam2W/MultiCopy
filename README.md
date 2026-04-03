@@ -7,7 +7,9 @@ You can to configurete your favorite shortcut for MultiCopy, limited max of itea
 
 ## Why this project (MultiCopy) was created?
 
-While I was copying large texts from some websites, images, titles, subtitles, a lot of thins interference me to copy everythins at once, I think "I want two Ctrl + V..." because is so tedious copy one for one. And obviously, in the web exists a lot of professional clipboards, but I wanted to create a simple, easy to use and with characteristics that I consider useful for a clipboard.
+While I was copying large texts from some websites, images, titles, subtitles, a lot of thins interference me to copy everythins at once, I think "I want two Ctrl + V..." because is so tedious copy one for one.
+
+And obviously, in the web exists a lot of professional clipboards, but I wanted to create a simple, easy to use and with characteristics that I consider useful for a clipboard.
 
 ---
 
